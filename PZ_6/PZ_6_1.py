@@ -22,4 +22,4 @@ print("РАНДОМ:", numbers)
 
 # проверка чередования чисел в списке
 result = check(numbers)
-print(result)
+print(f"номер числа, ломающее закономерность: {result}")
